@@ -1,0 +1,16 @@
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\TextEditor.exe
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\TextEditor.deps.json
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.json
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\TextEditor.runtimeconfig.dev.json
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\TextEditor.dll
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\ref\TextEditor.dll
+C:\dev\balta.io\FundamentosC#\TextEditor\bin\Debug\net5.0\TextEditor.pdb
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.csprojAssemblyReference.cache
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfoInputs.cache
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.AssemblyInfo.cs
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.dll
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\ref\TextEditor.dll
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.pdb
+C:\dev\balta.io\FundamentosC#\TextEditor\obj\Debug\net5.0\TextEditor.genruntimeconfig.cache

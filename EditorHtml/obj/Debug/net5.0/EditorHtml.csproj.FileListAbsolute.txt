@@ -1,0 +1,16 @@
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.csprojAssemblyReference.cache
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfoInputs.cache
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.AssemblyInfo.cs
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\EditorHtml.exe
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\EditorHtml.deps.json
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.json
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\EditorHtml.runtimeconfig.dev.json
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\EditorHtml.dll
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\ref\EditorHtml.dll
+C:\dev\balta.io\FundamentosC#\EditorHtml\bin\Debug\net5.0\EditorHtml.pdb
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.dll
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\ref\EditorHtml.dll
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.pdb
+C:\dev\balta.io\FundamentosC#\EditorHtml\obj\Debug\net5.0\EditorHtml.genruntimeconfig.cache
